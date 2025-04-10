@@ -5,7 +5,7 @@ This project is a small and very simple interactive application designed to fetc
 ---
 
 ## Features
-
+    
 1. **Fetch Random Users**  
    - A "Fetch Users" button triggers an API call to fetch a list of random users.  
    - Users are displayed in cards, showing their basic information like name, gender, and avatar.
