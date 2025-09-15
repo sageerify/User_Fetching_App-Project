@@ -2,7 +2,7 @@
   
 This project is a small and very simple interactive application designed to fetch random users from an API and provide options to filter users by gender and view detailed user information.
 
----
+-----
 
 ## Features
     
@@ -26,7 +26,7 @@ This project is a small and very simple interactive application designed to fetc
 - **HTML**: Markup structure of the app.  
 - **CSS**: Styling the layout and components.  
 - **JavaScript**: Core logic for fetching users, filtering, and handling UI interactions.  
-- **Random User API**: Provides the random user data.  
+- **Random User API**: Provides the random user data.....
 
 ---
 
